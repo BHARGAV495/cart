@@ -1,0 +1,249 @@
+#{
+margin: 0;
+padding: 0;
+background-color: red;
+}
+.logo {
+width: 100px;
+height: 100px;
+border-radius:50px;
+align-items: flex-start;
+}
+#navItem1 {
+color: #323f4b;
+font-family: "Roboto";
+}
+#navItem2 {
+color: #323f4b;
+font-family: "Roboto";
+}
+#navItem3 {
+color: #323f4b;
+font-family: "Roboto";
+}
+#navItem4 {
+color: #323f4b;
+font-family: "Roboto";
+}
+.banner-section-bg-container {
+background-image: url("https://images.ctfassets.net/rxqefefl3t5b/6I2vL9f0IVsDQ8qFgdrxH7/7660c4bab3116a4a04025d5c4802efa5/Virgin-Red-online-shopping-offers.jpg");
+height: 100vh;
+background-size: cover;
+}
+.banner-heading {
+color: black;
+font-family: "Roboto";
+font-size: 48px;
+font-weight: 300;
+padding: 10px;
+}
+.banner-caption {
+color: black;
+font-family: "Roboto";
+font-size: 50px;
+font-weight: 300;
+padding: 10px;
+}
+.banner-heading{
+text-align: right;
+padding-right: 10px;
+margin-right: 120px;
+}
+.banner-caption{
+text-align: right;
+padding-right: 10px;
+margin-right: 180px;
+}
+
+
+
+
+.jewellery-bottom-section {
+text-align:center;
+background-color: #e6f6ff;
+padding:15px;
+}
+.jewellery-card-item {
+text-align: center;
+background-color: white;
+width:240px;
+border-radius: 15px;
+padding: 16px;
+margin: 15px;
+}
+.jewellery-card-image {
+height: 200px;
+width: 200px;
+}
+.jewellery-card-name {
+color: #616e7c;
+font-family: "san serif";
+font-size: 12px;
+font-weight: bold;
+}
+.jewellery-card-price {
+color: #323f4b;
+font-family: "Roboto";
+font-size: 16px;
+font-weight: 500;
+}
+.Kitchen-bottom-section {
+text-align:center;
+background-color: #e6f6ff;
+padding:15px;
+}
+.Kitchen-card-item {
+text-align: center;
+background-color: white;
+width:240px;
+border-radius: 15px;
+padding: 16px;
+margin: 15px;
+}
+.Kitchen-card-image {
+height: 200px;
+width: 200px;
+}
+.Kitchen-card-name {
+color: #616e7c;
+font-family: "san serif";
+font-size: 12px;
+font-weight: normal;
+}
+.Kitchen-card-price {
+color: #323f4b;
+font-family: "Roboto";
+font-size: 16px;
+font-weight: 500;
+}
+.mobile-bottom-section {
+text-align:center;
+background-color: #e6f6ff;
+padding:15px;
+}
+.mobile-card-item {
+text-align: center;
+background-color: white;
+width:240px;
+border-radius: 15px;
+padding: 16px;
+margin: 15px;
+}
+.mobile-card-image {
+height: 200px;
+width: 200px;
+}
+.mobile-card-name {
+color: #616e7c;
+font-family: "san serif";
+font-size: 12px;
+font-weight: normal;
+}
+.mobile-card-price {
+color: #323f4b;
+font-family: "Roboto";
+font-size: 16px;
+font-weight: 500;
+}
+.Dress-bottom-section {
+text-align:center;
+background-color: #e6f6ff;
+padding:15px;
+}
+.Dress-card-item {
+text-align: center;
+background-color: white;
+width:240px;
+border-radius: 15px;
+padding: 16px;
+margin: 15px;
+}
+.Dress-card-image {
+height: 200px;
+width: 200px;
+}
+.Dress-card-name {
+color: #616e7c;
+font-family: "san serif";
+font-size: 12px;
+font-weight: normal;
+}
+.Dress-card-price {
+color: #323f4b;
+font-family: "Roboto";
+font-size: 16px;
+font-weight: 500;
+}
+.slippers-bottom-section {
+text-align:center;
+background-color: #e6f6ff;
+padding:15px;
+}
+.slippers-card-item {
+text-align: center;
+background-color: white;
+width:240px;
+border-radius: 15px;
+padding: 16px;
+margin: 15px;
+}
+.slippers-card-image {
+height: 200px;
+width: 200px;
+}
+.slippers-card-name {
+color: #616e7c;
+font-family: "san serif";
+font-size: 12px;
+font-weight: normal;
+}
+.slippers-card-price {
+color: #323f4b;
+font-family: "Roboto";
+font-size: 16px;
+font-weight: 500;
+}
+
+
+.wcu-section {
+background-color: #f9fbfe;
+}
+.wcu-section-heading {
+color: #183b56;
+font-family: "Roboto";
+font-size: 28px;
+font-weight: 700;
+}
+.wcu-section-description {
+color: #5a7184;
+font-family: "Roboto";
+font-size: 16px;
+}
+.wcu-card {
+text-align: center;
+background-color: white;
+border-style: solid;
+border-width: 1px;
+border-color: #e5eaf4;
+border-radius: 16px;
+}
+.wcu-card-image {
+width: 87px;
+height: 90px;
+}
+.wcu-card-title {
+color: #323f4b;
+font-family: "Roboto";
+font-size: 22px;
+font-weight: 500;
+}
+.wcu-card-description {
+color: #7b8794;
+font-family: "Roboto";
+font-size: 16px;
+}
+.offers {
+color: #323f4b;
+font-style: italic;
+font-weight: 600;
+}
